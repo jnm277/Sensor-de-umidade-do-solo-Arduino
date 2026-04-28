@@ -1,4 +1,4 @@
-# Sensor-de-umidade-do-solo-Arduino
+# Sensor de umidade do solo conectado a um arduino
 Projeto com circuito e código para conectar um sensor de umidade do solo a um arduino uno r3
 
 Ilustração do circuito pronto:
@@ -13,3 +13,6 @@ Conexões dos pinos:
 
 Valor dos resitores:<br>
 > 10k ohm.<br>
+
+link para o vídeo com o funcionamento do circuito:<br>
+https://github.com/user-attachments/assets/2cb2cdd2-22bc-4c41-a9f3-19ba9bb7999a
